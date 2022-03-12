@@ -1,0 +1,61 @@
+.trello-wrapper {
+  display: block;
+  height: 100vh;
+}
+
+.trello-example {
+  position: relative;
+  top: 70px;
+  right: 90px;
+}
+
+.trello-video {
+  position: relative;
+  top: 40px;
+}
+
+.trello-one {
+    position: absolute;
+    width: 85%;
+    top: 81px;
+    left: -65px;
+}
+.trello-two {
+    position: absolute;
+    top: 258px;
+    width: 85%;
+    left: 200px;
+}
+
+.trello-three {
+    width: 78%;
+    position: relative;
+    top: 75px;
+    height: 550px;
+}
+
+.trello-text {
+  position: absolute;
+  bottom: 195px;
+  font-size: 36px;
+}
+
+.github-img {
+  width: 90%;
+  margin: 74px 0 30px 0 !important;
+}
+
+.discord-videoo {
+  width: 80%;
+  margin-top: 73px;
+}
+
+h6 {
+    font-size: 38px;
+}
+
+.review-img {
+  position: absolute;
+    top: 84px;
+    left: 138px;
+}
